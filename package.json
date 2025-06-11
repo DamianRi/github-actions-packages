@@ -1,0 +1,23 @@
+{
+  "name": "github-actions-packages",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DamianRi/github-actions-packages.git"
+  },
+  "keywords": [],
+  "author": "Damián Rivera",
+  "license": "MIT",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/DamianRi/github-actions-packages/issues"
+  },
+  "homepage": "https://github.com/DamianRi/github-actions-packages#readme",
+  "description": "Paquete de pruebas mientras aprendo Github Actions."
+}
